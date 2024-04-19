@@ -17,7 +17,7 @@ body{
     -webkit-animation-name: zoomIn;
 	-webkit-transform-origin: center;
 	 transform-origin: center;
-	 animation: bounce 1s linear;
+	 animation: zoomin 1s linear;
     animation-name: zoomIn
 }
 
